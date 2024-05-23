@@ -1,7 +1,7 @@
 import React from 'react'
 import { Spotlight } from './ui/Spotlight'
 import { TextGenerateEffect } from "./ui/TextGenerateEffect"
-import { MagicButton } from './ui/MagicButton'
+import MagicButton from './ui/MagicButton'
 import { FaLocationArrow } from 'react-icons/fa'
 
 const Hero = () => {
@@ -29,9 +29,9 @@ const Hero = () => {
           </p>
           <a href="#about">
             <MagicButton 
-            title='Show my work'
+            title='Discover Me'
             icon={<FaLocationArrow />}
-            position='rigth'
+            position='right'
             />
           </a>
         </div>
