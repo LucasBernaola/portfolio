@@ -99,7 +99,7 @@ export const projects = [
     title: "To-Do App",
     des: "Keep all your notes, reminders and tasks organized in one place with To Do App. Simplify your daily life and never forget any important task.",
     img: "/p4.png",
-    iconLists: ["/JS.svg", "/CSS3.png", "/re.svg", "vite.svg"],
+    iconLists: ["/JS.svg", "/CSS3.png", "/re.svg", "Vite.png"],
     link: "https://to-do-app-kohl-iota.vercel.app/",
   },
 ];
